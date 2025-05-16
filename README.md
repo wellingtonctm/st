@@ -15,7 +15,7 @@ A personal fork of [suckless st](https://st.suckless.org/) (simple terminal), fe
 
 ## Screenshots
 
-![My custom st](images/screenshot.png)
+![My custom st](images/screenshot.jpg)
 
 
 ## Installation
